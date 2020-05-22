@@ -6,7 +6,7 @@
   <img src="https://static.jogalo.com/i/1413303cf.jpg" alt="YOUR_PROJECT_NAME" width="120">
 <br>
 <br>
- Jogo-da-velha
+ Jogo da velha
 </h1>
 
 <p align="center">Jogo da velha 2 player/ IA-Player ❌⭕</p>
