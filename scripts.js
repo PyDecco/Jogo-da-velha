@@ -57,7 +57,7 @@ for (let i = 0; i < boxes.length; i++){
         });
     }
 
-
+//evento pra saber se é 2 players ou IA
 
 
 
